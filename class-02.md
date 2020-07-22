@@ -1,5 +1,5 @@
 # Cascading Style Sheets - Notes
-
+[Home](README.md)
 - RGB
   - expresses color based on how much red green and blue is present in color 
   - ` rgb(100,100,100)`
