@@ -2,10 +2,10 @@
 # Code 201 Reading Notes
 > This will be a **table of contents** for my notes for *code 201*
 
--[Daily Reading 1](class-01.md)
--[Daily Reading 2](ckass-02.md)
-- Daily Reading 3
-- Daily Reading 4
+- [Daily Reading 1](class-01.md)
+- [Daily Reading 2](class-02.md)
+- [Daily Reading 3](class-03.md)
+- [Daily Reading 4](class-04.md)
 - Daily Reading 5
 - Daily Reading 6
 - Daily Reading 7
