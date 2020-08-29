@@ -14,7 +14,7 @@
 - Daily Reading 10
 - Daily Reading 11
 - Daily Reading 12
-- Daily Reading 13 
+- [Daily Reading 13](class-13.md) 
 - Daily Reading 14
 - Daily Reading 15
 
