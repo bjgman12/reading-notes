@@ -22,4 +22,5 @@
 
 ## Code 301 Reading Notes
 
-
+[Daily Reading PreWork](class-00.md
+)
