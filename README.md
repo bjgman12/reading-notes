@@ -1,5 +1,6 @@
+# Reading Notes
 
-# Code 201 Reading Notes
+## Code 201 Reading Notes
 > This will be a **table of contents** for my notes for *code 201*
 
 - [Daily Reading 1](class-01.md)
@@ -17,4 +18,8 @@
 - [Daily Reading 13](class-13.md) 
 - Daily Reading 14
 - Daily Reading 15
+
+
+## Code 301 Reading Notes
+
 
