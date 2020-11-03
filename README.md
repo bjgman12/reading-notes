@@ -24,3 +24,4 @@
 
 [Daily Reading PreWork](class-00.md
 )
+[Daily Reading One](clas-32.md)

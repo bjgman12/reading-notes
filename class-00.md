@@ -32,7 +32,7 @@
 ` 
   - inside css
     - `@media all and (max-width: 1024px) {...}` media rule
-    - `@media all and (max-width: 1024px) {...}`import rule
+    - `@import "reset.css";`import rule
 
 - many different types of queries
 
