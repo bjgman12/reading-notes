@@ -35,3 +35,5 @@
 [Daily Reading 9](clas-312.md)
 
 ## Code 401 Reading Notes
+
+[Testing and Recursion](401-class-02.md)
