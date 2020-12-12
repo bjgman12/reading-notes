@@ -37,3 +37,4 @@
 ## Code 401 Reading Notes
 
 [Testing and Recursion](401-class-02.md)
+[File io Excpetions](401-class-03.md)
