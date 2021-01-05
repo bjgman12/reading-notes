@@ -40,5 +40,6 @@
  - [File io Excpetions](401-class-03.md)
  - [Classes Objects fixturess and coverage](401-class-04.md)
  - [Random & Risk Anyl](401-class-06.md)
+ - [Game of Greed 2](401-class-07.md)
 
  
