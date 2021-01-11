@@ -41,5 +41,5 @@
  - [Classes Objects fixturess and coverage](401-class-04.md)
  - [Random & Risk Anyl](401-class-06.md)
  - [Game of Greed 2](401-class-07.md)
-
+ - [Stacks and Queues](401-class-09.md)
  
