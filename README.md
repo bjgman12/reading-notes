@@ -42,4 +42,4 @@
  - [Random & Risk Anyl](401-class-06.md)
  - [Game of Greed 2](401-class-07.md)
  - [Stacks and Queues](401-class-09.md)
- 
+ - [Linear Regression](401-class-13.md)
