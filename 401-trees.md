@@ -19,17 +19,17 @@ Left Child - The node that is positioned to the left of a root or node
 ### Depth
 
  #### pre-order
-  ![Breadth Algo](./preOrder.png)
+  ![Breadth Algo](preOrder.png)
   - top down first left right second prio
 
 
  #### in-order
  - left up right prio up down second
- ![Breadth Algo](./inOrder.png)
+ ![Breadth Algo](inOrder.png)
 
  #### post-order
  - left right prio then up
-  ![Breadth Algo](./post.png)
+  ![Breadth Algo](post.png)
 
 
  ### Breadth
@@ -38,4 +38,4 @@ Left Child - The node that is positioned to the left of a root or node
 
  - queue the nodes in each row  once row has been seen pop values then move to next row
 
- ![Breadth Algo](./breadthAlgo.png)
+ ![Breadth Algo](breadthAlgo.png)
